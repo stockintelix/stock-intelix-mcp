@@ -1,0 +1,28 @@
+{
+  "name": "stock-intelix-mcp",
+  "version": "1.0.0",
+  "description": "Official Model Context Protocol (MCP) server for Stock Intelix — Probabilistic stock price forecasts and equity intelligence across 34 global exchanges.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "stock-intelix-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "stock-intelix",
+    "finance",
+    "stocks",
+    "forecasting",
+    "claude",
+    "cursor"
+  ],
+  "author": "Stock Intelix",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.0"
+  }
+}
