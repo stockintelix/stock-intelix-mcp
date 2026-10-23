@@ -91,7 +91,7 @@ docker run -i --rm -e STOCK_INTELIX_API_KEY="sik_your_api_key_here" stock-inteli
 
 ```bash
 # Clone the repository
-git clone https://github.com/mop1980/stock-intelix-mcp.git
+git clone https://github.com/stockintelix/stock-intelix-mcp.git
 cd stock-intelix-mcp
 
 # Install dependencies
